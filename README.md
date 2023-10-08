@@ -1,4 +1,4 @@
-# first_demo
+c# first_demo
 A demo repository
 <br>
-Author - Ashiq
+Author - Ashiq(tanjil)
